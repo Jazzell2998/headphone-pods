@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Montserrat-Reg;
+    src: url(../fonts/static/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: Montserrat-Bold;
+    src: url(../fonts/static/Montserrat-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Prosto;
+    src: url(../fonts/ProstoOne-Regular.ttf);
+}
+@font-face {
+    font-family: Mont-Med;
+    src: url(../fonts/static/Montserrat-Medium.ttf);
+    font-weight: 500;
+}
